@@ -1,7 +1,7 @@
 # Welcome to my Github profile 👋
 
 ## 🙋‍♂️ About Me
-Beyond code, I channel my fervor for tech into community enrichment, leveraging my voice in political debates and civil action to advocate for change and innovation. I'm committed to not just building software, but also building bridges in tech communities.
+Greetings! I'm Stefan, a Full Stack Developer with a penchant for back-end architecture, currently enhancing the digital landscape with robust solutions and innovative design. Educated at the University of Novi Sad and seasoned in the tech industry, I've honed my skills in a plethora of frameworks and languages, from C# to React, all while nurturing a strong community spirit. Beyond code, I channel my fervor for tech into community enrichment, leveraging my voice in political debates and civil action to advocate for change and innovation. I'm committed to not just building software, but also building bridges in tech communities.
 
 ## 🔧 Skills
 - **Languages & Frameworks:** C#, .NET Core, Node.js, React.js, TypeScript, JavaScript, Python
@@ -9,14 +9,12 @@ Beyond code, I channel my fervor for tech into community enrichment, leveraging 
 - **Tools & Platforms:** Docker, RabbitMQ, Linux, AWS Lambda, Git, GraphQL
 - **Methodologies:** Agile, REST APIs, Domain-Driven Design (DDD), Test-Driven Development (TDD)
 
-<!--## 🌟 Pinned Repositories
-[In this section, showcase repositories that represent your best work, ensuring they have quality documentation and reflect your skills listed above.]-->
+<!--## 🌟 Pinned Repositories-->
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechBorn99&show_icons=true&theme=radical&hide=issues,contribs&count_private=true)
+<!--## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechBorn99&show_icons=true&theme=radical&hide=issues,contribs&count_private=true)-->
 
-<!--## 🌍 Open Source Contributions
-[Highlight any contributions to open source projects, issues you've raised, or discussions you've been a part of.]-->
+<!--## 🌍 Open Source Contributions-->
 
 ## 💼 Professional Experience
 - **Software Engineer**, IceFyre Solutions
