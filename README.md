@@ -27,7 +27,7 @@ Greetings! I'm Stefan, a Full Stack Developer with a penchant for back-end archi
 
 ## 📫 How to Reach Me
 - LinkedIn: [Stefan Radojevic](https://www.linkedin.com/in/stefan-radojevic-0706/)
-- Email: [Your Email](mailto:YourEmail@example.com)
+- Email: [Stefan Radojevic](mailto:radojevic.stefan.sr@gmail.com)
 
 ## ✨ A Personal Fact
 Beyond my technical pursuits, I'm passionate about nurturing community growth and engagement, facilitating workshops and leading discussions to spark innovation and collective learning.
