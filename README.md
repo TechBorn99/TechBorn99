@@ -17,9 +17,11 @@ Greetings! I'm Stefan, a Full Stack Developer with a penchant for back-end archi
 <!--## 🌍 Open Source Contributions-->
 
 ## 💼 Professional Experience
+- **Senior Software and DevOps Engineer**, Necture
+- **Senior Software Engineer**, RedPanda Software
 - **Software Engineer**, IceFyre Solutions
 - **Backend Software Engineer**, Ubiscore
-- **Software Engineer**, IM Republic (Contract)
+- **Software Engineer**, IM Republic 
 - **Software Engineer**, Inviggo
 
 ## 🎓 Education
