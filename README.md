@@ -6,7 +6,7 @@ Greetings! I'm Stefan, a Full Stack Developer with a penchant for back-end archi
 ## 🔧 Skills
 - **Languages & Frameworks:** C#, .NET Core, Node.js, React.js, TypeScript, JavaScript, Python
 - **Databases:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL
-- **Tools & Platforms:** Docker, RabbitMQ, Linux, AWS Lambda, Git, GraphQL
+- **Tools & Platforms:** Docker, RabbitMQ, Linux, AWS, Azure, Git, GraphQL
 - **Methodologies:** Agile, REST APIs, Domain-Driven Design (DDD), Test-Driven Development (TDD)
 
 <!--## 🌟 Pinned Repositories-->
@@ -18,6 +18,7 @@ Greetings! I'm Stefan, a Full Stack Developer with a penchant for back-end archi
 
 ## 💼 Professional Experience
 - **Senior Software and DevOps Engineer**, Necture
+- **Tech Lead**, RedPanda Software
 - **Senior Software Engineer**, RedPanda Software
 - **Software Engineer**, IceFyre Solutions
 - **Backend Software Engineer**, Ubiscore
